@@ -50,7 +50,7 @@ in
     ];
 
     xwayland = {
-      force_zero_scaling = true;
+      force_zero_scaling = false;
     };
 
     # Don't show update on first launch
