@@ -10,8 +10,8 @@ in {
     enable = true;
     settings = {
       # Window settings
-      window-padding-x = 14;
-      window-padding-y = 14;
+      window-padding-x = 5;
+      window-padding-y = 5;
       background-opacity = 0.95;
       window-decoration = "none";
 
